@@ -24,7 +24,6 @@
         <file>images/format-text-bold.svg</file>
         <file>images/format-text-italic.svg</file>
         <file>images/format-text-underline.svg</file>
-        <file>Icon.svg</file>
         <file>Icon.png</file>
     </qresource>
     <qresource prefix="/translations">
