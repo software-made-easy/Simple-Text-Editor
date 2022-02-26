@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   xml:space="preserve"
+   enable-background="new 0 0 1000 1000"
+   viewBox="0 0 1000 1000"
+   y="0px"
+   x="0px"
+   version="1.1"><defs
+   id="defs20" />
+<metadata
+   id="metadata2"> Svg Vector Icons : http://www.onlinewebfonts.com/icon <rdf:RDF><cc:Work
+     rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+<g
+   id="g14"><path
+     style="fill:#404040;fill-opacity:1"
+     id="path4"
+     d="M984.7,670.2L782.7,526.4c-4.3-3-9.7-3.4-14.4-1c-4.6,2.4-7.5,7.6-7.5,12.8l0.1,68.1H579.2c-7.7,0-15.2,5.4-15.2,13.2v125.2c0,7.7,7.5,13.1,15.2,13.1h183.6v68.6c0,5.2,2,10,6.7,12.4c4.7,2.4,9.3,2,13.6-1.1L984.8,693c3.7-2.6,5.2-6.9,5.2-11.4c0,0,0,0,0,0C990,677.1,988.4,672.9,984.7,670.2z" /><path
+     style="fill:#404040;fill-opacity:1"
+     id="path6"
+     d="M653.9,812.5h-71l0,0c-10.5,0-18.9,8.5-18.9,18.9h-0.1v32.9H119V348.5h194c10.5,0,18.9-8.5,18.9-18.9v-194h231.9v398h0.1c0.2,10.3,8.6,18.5,18.9,18.5h71c10.3,0,18.7-8.3,18.9-18.5h0v-0.4v0c0,0,0,0,0,0V89.5h-0.1v-44c0-10.5-8.5-18.9-18.9-18.9H627l0,0H313l0,0H294l-284,284v26.8v11.1v579.2v26.8c0,10.5,8.5,18.9,18.9,18.9h17.3h590.3h17.3c10.5,0,18.9-8.5,18.9-18.9v-26.8h0.1v-96.2v0C672.8,821,664.4,812.5,653.9,812.5z" /><path
+     style="fill:#404040;fill-opacity:1"
+     id="path8"
+     d="M188.3,629.8v101h30.6v-31.8h23.3c23.6,0,36.4-15.8,36.4-34.5c0-18.9-12.7-34.7-36.4-34.7H188.3z M247.5,664.5c0,5.3-4.1,7.9-9.2,7.9h-19.4v-15.9h19.4C243.4,656.5,247.5,659.1,247.5,664.5z" /><path
+     style="fill:#404040;fill-opacity:1"
+     id="path10"
+     d="M294.5,629.8v101h45.3c31.7,0,55.3-18.3,55.3-50.6s-23.6-50.4-55.4-50.4H294.5z M364.1,680.3c0,12.7-9.1,23.9-24.4,23.9h-14.5v-47.7h14.7C356.2,656.5,364.1,666.7,364.1,680.3z" /><path
+     style="fill:#404040;fill-opacity:1"
+     id="path12"
+     d="M490.3,656.5v-26.7h-76.7v101h30.6v-37.7h45v-26.7h-45v-10H490.3z" /></g>
+</svg>
